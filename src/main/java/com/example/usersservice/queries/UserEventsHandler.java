@@ -1,5 +1,6 @@
 package com.example.usersservice.queries;
 
+
 import com.gui.estore.core.model.PaymentDetails;
 import com.gui.estore.core.model.User;
 import com.gui.estore.core.queries.FetchUserPaymentDetailsQuery;
