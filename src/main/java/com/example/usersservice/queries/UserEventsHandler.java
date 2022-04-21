@@ -25,6 +25,7 @@ public class UserEventsHandler {
                 .firstName("GUILLE")
                 .lastName("Kargopolov")
                 .userId(query.getUserId())
+                .email("duche27@hotmail.com")
                 .paymentDetails(paymentDetails)
                 .build();
     }
